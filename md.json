@@ -2,5 +2,6 @@
 "name": "Tool",
 "description": "CNFT Tools Cardano Stake Pool. Helping Cardano's future!",
 "ticker": "TOOL",
-"homepage": "https://cnft.tools"
+"homepage": "https://cnft.tools",
+"extended": "https://cnft.tools/extendedmeta.json"
 }
